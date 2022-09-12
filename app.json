@@ -14,15 +14,15 @@
     },
     "APP_ID": {
       "description": "APP ID",
-      "value": "12345"
+      "value": "17075222"
     },
     "APP_HASH": {
       "description": "APP HASH",
-      "value": "12345abc"
+      "value": "d3f57b56ad8463fc96cc969da6586381"
     },
     "OWNER": {
       "description": "Your telegram username",
-      "value": "username",
+      "value": "Ammar_1502",
       "required": false
     }
   },
