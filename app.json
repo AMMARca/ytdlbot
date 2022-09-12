@@ -10,7 +10,7 @@
   "env": {
     "TOKEN": {
       "description": "Bot token",
-      "value": "token"
+      "value": "5517279122:AAG5QDnCZw5qv-cuSR_LJWmdkVDVfkt_t3g"
     },
     "APP_ID": {
       "description": "APP ID",
